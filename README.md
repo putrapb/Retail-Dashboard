@@ -36,8 +36,8 @@ A Laravel-based web application for retail or product management, focusing on an
    ```bash
    php artisan serve
 
-Kontribusi
+## Kontribusi
 Kontribusi sangat terbuka! Silakan fork repo ini dan buat pull request untuk penambahan fitur atau perbaikan bug.
 
-Lisensi
+## Lisensi
 Proyek ini menggunakan lisensi MIT.
