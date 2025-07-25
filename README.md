@@ -25,19 +25,19 @@ A Laravel-based web application for retail or product management, focusing on an
    ```bash
    composer install
    npm install
-3. Salin environment dan generate key
+3. Copy environment and generate key
    ```bash
    cp .env.example .env
    php artisan key:generate
-4. Jalankan migrasi dan seeder
+4. Run migration and seeder
    ```bash
    php artisan migrate --seed
-5. Jalankan aplikasi
+5. Run the app
    ```bash
    php artisan serve
 
 ## Kontribusi
-Kontribusi sangat terbuka! Silakan fork repo ini dan buat pull request untuk penambahan fitur atau perbaikan bug.
+Contributions are very welcome! Please fork this repository and create a pull request for feature additions or bug fixes.
 
 ## Lisensi
-Proyek ini menggunakan lisensi MIT.
+This license is using MIT.
